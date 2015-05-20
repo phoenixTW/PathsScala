@@ -1,0 +1,12 @@
+### SBT template
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+target/.history
+.cache
+.history
+.idea
+.DS_Store
+
